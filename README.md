@@ -11,6 +11,7 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 
 - **Fortnite Cleaning**
 - **Modern Warfare/Warzone Cleaning**
+- **MAC Changing**
 
 ## How To Use
 Requirements: Visual Studio (You can add a font to make it look better)
