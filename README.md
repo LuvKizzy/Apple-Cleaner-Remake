@@ -11,3 +11,15 @@ Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is m
 
 - **Fortnite Cleaning**
 - **Modern Warfare/Warzone Cleaning**
+
+## How To Use
+Requirements: Visual Studio (You can add a font to make it look better)
+```
+Step 1: Download all files and extract to a folder
+Step 2: Run remake.vcxproj
+Step 3: Set Solution Config to Release
+Step 4: Go to Project -> Properties
+Step 5: Change C++ Lang Standard to C++17
+```
+
+## Preview
